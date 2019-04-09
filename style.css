@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}  
+
+
+ul {
+    font-family: 'IBM Plex Mono', monospace;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;    
+}
+
+li {
+    padding: 20px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: normal
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: lighter;
+
+
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
