@@ -21,7 +21,7 @@ h1 {
     text-align: center;
     font-family: 'IBM Plex Mono', monospace;
     font-weight: normal;
-    font-size: 3em;
+    font-size: 3rem;
 }
 
 h2 {
@@ -30,11 +30,16 @@ h2 {
     font-family: 'IBM Plex Mono', monospace;
     font-weight: lighter;
 
-
 }
 
-.container {
-    justify-content: space-around
-    margin: 0 auto;
-    text-align: center;
-  }
+.nav {
+    justify-content: flex-end
+}
+
+.projects {
+    padding-top: 20%;
+}
+
+
+
+    
