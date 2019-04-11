@@ -20,7 +20,8 @@ h1 {
     color: black;
     text-align: center;
     font-family: 'IBM Plex Mono', monospace;
-    font-weight: normal
+    font-weight: normal;
+    font-size: 3em;
 }
 
 h2 {
@@ -33,7 +34,7 @@ h2 {
 }
 
 .container {
-    max-width: 400px;
+    justify-content: space-around
     margin: 0 auto;
     text-align: center;
   }
